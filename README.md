@@ -20,8 +20,10 @@ Features
 
 Install
 =========
+Publishable Key Location in Code:
 ![Publishable Key Location](https://nated.xyz/images/stripepreview1.png)
 
+Secret Key Location in Code:
 ![Secret Key Location](https://nated.xyz/images/stripepreview2.png)
 
 Preview
