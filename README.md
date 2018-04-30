@@ -20,7 +20,7 @@ Features
 
 Preview
 ===============
-Live Preview: https://nated.xyz/software/stripe-checkout-form/
+https://nated.xyz/software/stripe-checkout-form/
 
 License
 ==========
