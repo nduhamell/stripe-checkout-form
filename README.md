@@ -1,4 +1,4 @@
-Stripe Paymennt Form
+Stripe Payment Form
 ====================================
 
 This is a simple stripe payment form built with HTML and PHP. This form uses
