@@ -18,6 +18,12 @@ Features
 * Warning if JavaScript is disabled
 * Charge single amounts with Stripe
 
+Install
+=========
+![Publishable Key Location](https://nated.xyz/images/stripepreview1.png)
+
+![Secret Key Location](https://nated.xyz/images/stripepreview2.png)
+
 Preview
 ===============
 https://nated.xyz/software/stripe-checkout-form/
