@@ -18,6 +18,12 @@ Features
 * Warning if JavaScript is disabled
 * Charge single amounts with Stripe
 
+Requirements
+===============
+- PHP 5+
+- MySQL database
+- SSL Certificate (Should not even be used at all wihtout)
+
 Install
 =========
 Publishable and Secret Key(s) Location in Code:
