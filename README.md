@@ -11,7 +11,8 @@ my software you can donate at: https://nated.xyz/donate/
 
 Design Options
 ====================================
-The Design folder has 7 additonal designs as of now! They include:
+The Design folder has 7 additonal designs! They include:
+
 * 1.php = Green Submit Button w/ White Background
 * 2.php = Red Submit Button w/ White Background
 * 3.php = Black Submit Button w/ White Background
