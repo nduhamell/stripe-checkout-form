@@ -12,13 +12,13 @@ my software you can donate at: https://nated.xyz/donate/
 Design Options
 ====================================
 The Design folder has 7 additonal designs as of now! They include:
-1.php = Green Submit Button w/ White Background
-2.php = Red Submit Button w/ White Background
-3.php = Black Submit Button w/ White Background
-4.php = Pink Submit Button w/ White Background
-5.php = Blue Submit Button w/ White Background
-6.php = Teal Submit Button w/ White Background
-7.php = Yellow Submit Button w/ White Background
+* 1.php = Green Submit Button w/ White Background
+* 2.php = Red Submit Button w/ White Background
+* 3.php = Black Submit Button w/ White Background
+* 4.php = Pink Submit Button w/ White Background
+* 5.php = Blue Submit Button w/ White Background
+* 6.php = Teal Submit Button w/ White Background
+* 7.php = Yellow Submit Button w/ White Background
 
 Features
 ===============
