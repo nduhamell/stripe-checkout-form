@@ -1,0 +1,2 @@
+[30-Apr-2018 18:31:26 UTC] PHP Warning:  require(lib/Stripe.php): failed to open stream: No such file or directory in /home/bjlp37dfyeen/public_html/software/stripe-checkout-form/design/colors/8.php on line 355
+[30-Apr-2018 18:31:26 UTC] PHP Fatal error:  require(): Failed opening required 'lib/Stripe.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/bjlp37dfyeen/public_html/software/stripe-checkout-form/design/colors/8.php on line 355
