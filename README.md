@@ -9,6 +9,19 @@ have an SSL certificate. This is a huge security risk implementing otherwise.
 I enjoy making software so much! Please, if you see any issues make them known! If you especially love
 my software you can donate at: https://github.nated.xyz/donate/
 
+Install
+=======
+Keys located in main "index.php" file
+* Set Publishable Key
+* Set Secret Key
+
+Install Images
+===============
+Visual Representation of Above
+<a href="https://i.imgur.com/s9vnzZ2.png" target="_blank"><img style="padding-left:5%;" src="https://i.imgur.com/s9vnzZ2.png" alt="Stripe Checkout Form Install Instructions" width="100%"></img></a>
+<a href="https://i.imgur.com/fDvtUiG.png" target="_blank"><img style="padding-left:5%;" src="https://i.imgur.com/fDvtUiG.png" alt="Stripe Checkout Form Install Instructions" width="100%"></img></a>
+
+
 Design Options
 ====================================
 The Design folder has 7 additonal designs! They include:
