@@ -53,7 +53,7 @@ Requirements
 
 Preview
 ===============
-https://github.nated.xyz/demo/stripe-checkout-form/
+https://files.nateduhamell.com/test/stripe-checkout-form-master/
 
 License
 ==========
